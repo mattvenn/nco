@@ -1,0 +1,30 @@
+[*]
+[*] GTKWave Analyzer v3.3.58 (w)1999-2014 BSI
+[*] Sun Dec 17 18:54:42 2017
+[*]
+[dumpfile] "/home/mattvenn/work/fpga/nco/test.vcd"
+[dumpfile_mtime] "Sun Dec 17 18:54:30 2017"
+[dumpfile_size] 24382
+[savefile] "/home/mattvenn/work/fpga/nco/gtk-nco.gtkw"
+[timestart] 4
+[size] 1000 600
+[pos] 265 0
+*-7.824838 124 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] test.
+[sst_width] 263
+[signals_width] 208
+[sst_expanded] 1
+[sst_vpaned_height] 155
+@28
+test.clk
+test.ce
+test.nco_inst.i_ce
+@29
+test.nco_inst.i_ld
+@28
+test.nco_inst.i_clk
+@22
+test.nco_inst.o_val[6:0]
+test.nco_inst.pointer[7:0]
+[pattern_trace] 1
+[pattern_trace] 0
